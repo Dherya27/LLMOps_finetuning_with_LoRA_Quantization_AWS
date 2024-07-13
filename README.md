@@ -4,7 +4,8 @@ This project involves the fine-tuning of a large language model (LLM) using Low-
 
 
 #### Loss and Cosine Learning rate scheduler
-![learning_rate_plot](results/loss_and_lr.png)
+![image](https://github.com/user-attachments/assets/1e0cd743-7756-4b22-b1e7-bde1bbb5c3c5)
+
 
 
 initial learning rate = 2e-4 , 
