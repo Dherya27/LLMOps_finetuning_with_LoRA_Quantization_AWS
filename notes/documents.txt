@@ -1,0 +1,9 @@
+To run the fatsapi instance :::::: 
+>>> uvicorn main:app --reload
+
+To kill the runnimg server :::::: 
+>>> lsof -i :8000 
+>>> kill -9 <PID>
+
+
+
