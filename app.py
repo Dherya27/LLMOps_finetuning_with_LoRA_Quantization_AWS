@@ -7,7 +7,6 @@ from starlette.responses import RedirectResponse
 from src.api.schemas import TrainingRequest
 from src.api.schemas import TrainingConfig
 
-
 # Place holder text and api object
 app = FastAPI()
 
