@@ -108,5 +108,14 @@ class TrainingRequest(BaseModel):
     config: Optional[TrainingConfig] = None
 
 
+# tr_request = TrainingRequest(
+#     model_name="my_model",
+#     dataset_name="my_dataset",
+#     new_model="my_new_model",
+#     config=TrainingConfig()
+# )
+
+# lora_value = tr_request.config.lora_r
+# print(lora_value)
 
 
